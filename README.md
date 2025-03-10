@@ -10,8 +10,8 @@ Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le dével
 
 - 🎓 Étudiant à **42** en pleine immersion dans le monde du code
 - 🔭 Je travaille actuellement sur **MINISHELL**
-- 🌱 J’apprends **[technologies ou sujets en cours d’apprentissage]**
-- 💬 N’hésite pas à me poser des questions sur **[compétences ou sujets d’expertise]**
+- 🌱 J’apprends actuellement le langage C et prochainement le C++
+- 💬 N’hésite pas à me poser des questions sur le langage en C
 - 📫 Tu peux me contacter via **arnofonz@gmail.com**
 
 ## 🔧 Technologies & Outils
@@ -26,13 +26,17 @@ Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le dével
 
 ## 📌 Projets en vedette
 
-🔹 [MINISHELL](https://github.com/arnofonz/42_student/tree/main/minishell) - Programmation d'un SHELL identique à Bash.
-
-🔹 [SO LONG](https://github.com/arnofonz/42_student/tree/main/so_long) - Programmation d'un jeu 2D.
-
-🔹 [PUSH SWAP](https://github.com/arnofonz/42_student/tree/main/push_swap) - Création d'un algorythme de tri avec optimisation.
-
-🔹 [FT PRINT-F](https://github.com/arnofonz/42_student/tree/main/printf) - Reproduction de la célèbre fonction printf.
+<p align="center">
+  <a href="https://github.com/arnofonz/42_student/tree/main/minishell">
+    <img src="https://github.com/arnofonz/img/blob/main/041f44dc-5c61-46af-945c-8e980ae410a1.jpg" width="150" alt="Minishell">
+  </a>
+  <a href="https://github.com/arnofonz/42_student/tree/main/printf">
+    <img src="https://github.com/arnofonz/img/blob/main/ed0107e1-1d75-4191-9a72-377cc5aff0e6.jpeg" width="150" alt="Printf">
+  </a>
+  <a href="https://github.com/tonpseudo/push_swap">
+    <img src="https://github.com/arnofonz/img/blob/main/d052ccd7-6f3b-4f1a-a17f-ec4bd92dd929.jpeg" width="150" alt="Push Swap">
+  </a>
+</p>
 
 
 ## 📊 Stats GitHub
