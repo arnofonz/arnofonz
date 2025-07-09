@@ -55,8 +55,13 @@ Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le dével
   <a href="https://github.com/arnofonz/42_student/tree/main/philo">
     <img src="https://github.com/arnofonz/img/blob/main/philosophersm.png?raw=true" width="150" alt="Philosophers">
   </a>
-  <a href="https://github.com/arnofonz/42_student/tree/main/42-Cub3d">
-    <img src="https://github.com/arnofonz/img/blob/main/cu
+    <a href="https://github.com/arnofonz/42_student/tree/main/42-Cub3d">
+    <img src="https://github.com/arnofonz/img/blob/main/cub3dm.png?raw=true" width="150" alt="Cub3D">
+  </a>
+      <a href="https://github.com/arnofonz/42_student/tree/main/WebServ">
+    <img src="https://github.com/arnofonz/img/blob/main/webserve.png?raw=true" width="150" alt="WebServ">
+  </a>
+
 
 
 
@@ -72,3 +77,4 @@ Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le dével
 ---
 
 💡 *N’hésite pas à explorer mes projets et à me contacter si tu veux collaborer !* 🚀
+
