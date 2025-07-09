@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://github.com/arnofonz/img/blob/main/banner.jpg?raw=true" width="500" alt="Coding GIF">
 </p>
 
 Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le développement et la programmation. 🚀
@@ -27,6 +27,9 @@ Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le dével
 ## 📌 Projets en vedette
 
 <p align="center">
+  <a href="https://github.com/arnofonz/42_student/tree/main/libft">
+    <img src="https://github.com/arnofonz/img/blob/main/libftm.png?raw=true" width="150" alt="Minishell">
+  </a>
   <a href="https://github.com/arnofonz/42_student/tree/main/minishell">
     <img src="https://github.com/arnofonz/img/blob/main/041f44dc-5c61-46af-945c-8e980ae410a1.jpg" width="150" alt="Minishell">
   </a>
@@ -39,11 +42,7 @@ Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le dével
 </p>
 
 
-## 📊 Stats GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnofonz&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
 ## 🌍 Me retrouver ailleurs
 
