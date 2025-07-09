@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 <p align="center">
-  <img src="https://github.com/arnofonz/img/blob/main/banner.jpg?raw=true" width="500" alt="Coding GIF">
+  <img src="https://github.com/arnofonz/img/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark%202.jpg?raw=true?raw=true" width="500" alt="Coding GIF">
 </p>
 
 Salut ! Je suis Arnaud, en formation à 42 PERPIGNAN et passionné par le développement et la programmation. 🚀
